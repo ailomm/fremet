@@ -756,7 +756,7 @@ line-height: 117px;
 }
 #podhod{
 	float:left;
-	width: 150px;
+	width: 179px;
 height: 18px;
 margin-left: 20%;
 margin-top:60px;
@@ -848,7 +848,8 @@ font-size:12px;}
 #Sacha2{
 padding-top:15px;}
 #rights{
-color: #FFFFFF;}
+color: #FFFFFF;
+	width:200px;}
 #q,#p,#e,#s{
 	width: 153px;
 height: 117px;
