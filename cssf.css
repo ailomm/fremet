@@ -742,7 +742,7 @@ color: #FFFFFF;
 }
 #fourth{
 	float:left;
-width: 58px;
+width: 70px;
 height: 117px;
 
 margin-top:0px;
@@ -848,7 +848,8 @@ font-size:12px;}
 #Sacha2{
 padding-top:5px;}
 #rights{
-color: #FFFFFF;}
+color: #FFFFFF;
+	width:200px;}
 #q,#p,#e,#s{
 	width: 153px;
 height: 117px;
