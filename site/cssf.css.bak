@@ -1,0 +1,879 @@
+*{ margin:0;
+   padding:0;
+box-sizing:border-box;
+font-family:Corbel;}
+
+#logo{
+	width:172px;
+    height:58px;
+	font-family:Corbel;
+	font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+padding-top:20px;
+padding-bottom:5px;
+	}
+#logo a{
+text-decoration:none;
+color: #2E2828;}	
+.topnav {
+	padding-bottom:5px;
+	width:100%;
+	background-color:white;
+	position:fixed;
+	padding-left:10.3%;
+	padding-right:10.3%;
+    display:flex;
+	justify-content:space-between;
+    height:100px;
+	overflow:hidden;
+	
+	border-bottom:1px solid #2E2828;
+}
+.contacts{
+padding-top:20px;
+margin-bottom:5px;
+
+}
+#Nikita{
+	padding-bottom:5px;
+	width:200px;
+height: 17px;
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #2E2828;}
+#Sacha{
+width: 200px;
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+padding-top:10px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+}
+#inst{
+padding-left:34.7%;}
+#inst h6{
+	padding-bottom:5px;
+padding-top:41px;
+top: 41px;
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+color: #2E2828;}
+
+#ua::before{
+	content: url('https://api.iconify.design/bi/instagram.svg?color=%2334353c');
+	padding-right:10px;
+	padding-top:2px;
+	width:30px;
+}
+#titblur{
+width:100%;
+padding-top:70px;}
+#mainlogo{
+	
+
+width:573px;
+height:786px;
+margin-top:-800px;
+margin-left:30%;
+
+
+animation-name: Appearance;
+  animation-duration: 3s;
+  animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+@-webkit-keyframes Appearance {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@-o-keyframes Appearance {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@-moz-keyframes Appearance {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@keyframes Appearance {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+#make{
+	float:left;
+width:1700px;
+margin-left:12.29%;
+margin-top:60px;}
+#list{
+	
+}
+.spisok::before{
+	content:url("треугольничек.png");
+	padding-right:15px;
+	}
+.spisok,.spisok2{
+list-style-type:none;
+
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+padding-top:24px;
+/* text */
+
+color: #2E2828;
+
+}
+#right{
+	float:right;
+margin-top:-36%;
+width: 50%;
+height: 50%;}
+#left{
+float:left;
+width: 50%;
+height: 50%;
+margin-top:14%;}
+.spisok2::before{
+	content:url("треугольничек.png");
+	padding-right:15px;
+	}
+#make2{
+	float:right;
+height: 650px;
+width: 692px;
+margin-left: 48.8%;
+margin-top:-570px;
+}
+.spisok2 li{
+list-style-type:none;
+padding-top:20px;
+margin-top:10px;
+padding-left:78px;}
+#make2 p{
+	font-family:GOST type B;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+padding-top:-10px;
+
+color: #2E2828;}
+#whyus{
+	width:100%;
+	height: 891px;
+
+
+margin-top: 1827px;
+background-color:#5F5252;}
+#us{
+	
+width: 180px;
+height: 39px;
+margin:auto;
+padding-top:122px;
+
+font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#izgot{
+	style="font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+padding-top:120px;
+
+color: #2E2828;}
+#1s{
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 200px;
+line-height: 234px;
+
+color: rgba(187, 180, 180, 0.3);}
+
+
+#first{
+	float:left;
+width: 116px;
+height: 234px;
+margin-left: 284px;
+padding-top: 57px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 200px;
+line-height: 234px;
+
+color: rgba(187, 180, 180, 0.3);}
+#quality{
+	float:left;
+width: 200px;
+height: 26px;
+margin-left:-70px;
+margin-top: 150px;
+font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#second{
+	float:right;
+	width: 116px;
+height: 234px;
+margin-right: 436px;
+margin-top: 57px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 200px;
+line-height: 234px;
+
+color: rgba(187, 180, 180, 0.3);}
+#sroki{
+float:right;	
+width: 200px;
+height: 26px;
+margin-right:-260px;
+margin-top: 150px;
+
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+/* identical to box height */
+color: #FFFFFF;}
+#third{
+float:left;
+width: 116px;
+height: 234px;
+margin-left: -240px;
+margin-top: 400px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 200px;
+line-height: 234px;
+
+color: rgba(187, 180, 180, 0.3);}
+#price{
+	float:left;
+	width: 240px;
+height: 26px;
+margin-left: 340px;
+margin-top: 260px;
+
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+color: #FFFFFF;}
+#fourth{
+	float:right;
+	width: 116px;
+height: 234px;
+margin-right:-100px;
+margin-top: 170px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 200px;
+line-height: 234px;
+color: #7B6F6F;
+}
+#podhod{
+	float:right;
+	width: 250px;
+height: 26px;
+margin-right: -315px;
+margin-top: 260px;
+
+font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#proects{
+width: 250px;
+height: 36px;
+margin-left: 623px;
+margin-top: 120px;
+
+font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+/* identical to box height */
+
+
+/* text */
+
+color: #2E2828;}
+#gal1,#gal3{
+	width: 70%;
+height: 704px;
+float:right;
+margin-top:60px;}
+#leftblock,#leftblock2{
+	
+width: 18%;
+height: 330px;
+margin-left: 152px;
+margin-top: 60px;
+float:left;
+
+background: #F6AA74;}
+#title,#title3{
+	width: 250px;
+height: 26px;
+margin-left: 19px;
+margin-top: 101px;
+
+font-family: Corbel;
+font-style: bold;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* text */
+
+color: #2E2828;}
+#par,#par3{
+	
+width: 229px;
+height: 86px;
+margin-left: 19px;
+margin-top: 17px;
+
+font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+
+/* text */
+
+color: #2E2828;}
+#rightblock{
+	width: 18%;
+height: 330px;
+margin-right: 150px;
+margin-top: 65px;
+float:right;
+
+background: #F6AA74;}
+#gal2{
+width: 70%;
+height: 704px;
+float:left;
+margin-top:60px;}
+#title2{
+	width: 250px;
+height: 26px;
+margin-left: 15px;
+margin-top: 78px;
+
+font-family: Corbel;
+font-style: bold;
+font-weight: 400;
+font-size: 23px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* text */
+
+color: #2E2828;}
+#par2{
+	width: 229px;
+height: 86px;
+margin-left: 15px;
+margin-top: 33px;
+
+font-family:Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+color: #2E2828;}
+#footer{
+width: 100%;
+height: 230px;
+margin-top: 2400px;
+background-color: #F6AA74;
+}
+#logofoot{
+width: 172px;
+height: 20px;
+margin-left: 150px;
+padding-top: 52px;
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #2E2828;
+}
+#insta{
+width: 100px;
+height: 17px;
+padding-left:154px;
+margin-top: 70px;
+
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+
+/* identical to box height */
+
+
+/* text */
+
+color: #2E2828;
+
+}
+#insta::before{
+	content: url('https://api.iconify.design/bi/instagram.svg?color=%2334353c');
+	padding-right:40px;
+	padding-top:2px;
+width:30px;}
+.contacts2{
+	width: 182px;
+height: 44px;
+margin-left: 399px;
+margin-top: -15px;
+width: 99px;
+height: 17px;
+left: 399px;
+top: 6428px;
+
+
+margin-bottom:5px;
+font-family: 'Corbel';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* text */
+
+color: #2E2828;}
+#Nikita2{
+	padding-bottom:5px;
+	width:200px;
+height: 17px;
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #2E2828;}
+#Sacha2{
+	padding-bottom:5px;
+	width:200px;
+height: 17px;
+font-family: Corbel;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #2E2828;}
+#rights{
+	width: 123px;
+height: 17px;
+margin:auto;
+margin-top:45px;
+
+
+font-family: 'Corbel';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* text */
+
+color: #2E2828;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1024px){
+	#logo,#logofoot{
+font-size: 23px;}
+#Nikita,#Sacha,#inst h6{
+font-size:12px;
+}
+#inst h6{
+	width:200px;
+}
+#inst{
+display:none;}
+#insta::before{
+content: url('https://api.iconify.design/akar-icons/instagram-fill.svg?color=%23f8f8f8');}
+.topnav{
+	padding-top:-30px;
+	padding-left:3%;
+padding-right:3%;
+width:100%;
+justify-content:left;
+}
+#mainlogo{
+	
+width: 30%;
+height: 37%;
+margin-top:-20%;
+	margin-left:50%;
+	transform:translate(-50%,-50%);
+	
+}
+
+
+#inst {
+
+
+height: 14px;
+padding-left:7%;
+
+font-family: 'Corbel';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+/* text */
+
+color: #2E2828;}
+
+#izgot,#make2 p{
+font-size: 16px;
+font-size:bold;}
+.spisok{
+font-size:14px;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;}
+#make,#make2{
+	margin-top:-200px;
+	width: 360px;
+height: 15px;
+margin-left:4%;}
+#left,#right{
+display:none;}
+#make2{
+	float:left;
+margin-top:380px;
+margin-left:4%;}
+.spisok2{
+	font-size:14px;
+}
+.spisok2 li{
+font-size:12px;
+padding-top:5px;
+margin-top:5px;
+width:450px;
+padding-left:0;}
+#whyus{
+height: 694px;
+
+margin-top: 956px;}
+#us{
+	padding-top:50px;
+font-size:23px;}
+#first{
+	width: 58px;
+height: 117px;
+margin-left: 50%;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 117px;
+}
+#quality{
+	float:left;
+	width: 150px;
+height: 18px;
+margin-left: 90%;
+margin-top:0;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#second{
+	float:left;
+	width: 58px;
+height: 117px;
+margin-left: 50%;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 117px;
+
+color: rgba(187, 180, 180, 0.3);}
+#sroki{
+	float:left;
+	width:200px;
+height: 18px;
+margin-left: 90%;
+margin-top:-70px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#third{
+	float:left;
+	width: 58px;
+height: 117px;
+margin-left: 50%;
+margin-top:15px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 117px;
+
+color: rgba(187, 180, 180, 0.3);}
+#price{
+	float:left;
+	width: 200px;
+height: 18px;
+margin-left: 90%;
+margin-top:-70px;
+
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#fourth{
+	float:left;
+width: 58px;
+height: 117px;
+margin-left: 50%;
+margin-top:0px;
+
+
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 117px;
+
+}
+#podhod{
+	float:left;
+	width: 150px;
+height: 18px;
+margin-left: 70%;
+margin-top:60px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height */
+
+
+}
+#proects{
+	font-size: 16px;
+margin:auto;
+padding:30px;}
+#gal1,#gal2,#gal3{
+width:100%;
+height:271px;}
+#leftblock,#leftblock2,#rightblock{
+	width:100%;
+	margin:0;
+	margin-top:5px;
+height:128px;}
+#title,#title2,#title3{
+width: 342.22px;
+height: 16px;
+padding-left:3%;
+margin-top:10px;
+
+
+font-style: bold;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;}
+#par,#par2,#par3{
+width: 100%;
+height: 86px;
+padding-left:3%;
+
+
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 13px;
+}
+#footer{
+	
+height: 128px;
+
+margin-top: 1420px;
+
+background-color: #5F5252;}
+#logofoot{
+margin-left:3%;
+}
+#logofoot{
+padding-top:0px;
+
+color: #FFFFFF;}
+#insta{
+	width: 100px;
+height: 14px;
+padding-left: 3.5%;
+margin-top:20px;
+
+
+font-family: 'Corbel';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;}
+
+#insta::before{
+padding-right:10px;
+padding-top:3px;}
+#Sacha2,#Nikita2{
+	float:right;
+margin-right:150px;
+margin-top:-7px;
+color: #FFFFFF;
+font-size:12px;}
+#Sacha2{
+padding-top:5px;}
+#rights{
+color: #FFFFFF;}
+#q,#p,#e,#s{
+	width: 153px;
+height: 117px;
+margin-left: 25%;
+}
+	
+
+
+	
+}
+
+
+	
+
+
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
